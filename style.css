@@ -3,18 +3,8 @@
         --cor-de-fundo: #EBECEE;
         --branco: #FFFFFF;
 }
-.cabeçalho {
-    background-color: var(--branco)
-.cabeçalho {
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
+body {
+    background-color: var(--cor-de-fundo);
 }
-.cabeçalho {
-    background-color: var(--branco);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+h1 { background-color: white;
 }
-
-
