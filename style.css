@@ -22,10 +22,7 @@
     </div>
     <div class="container">
         <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos"></a>
-        <a href="#"><img src="img/Compras.svg" alt="Carrinho de compras"></a>
-        <a href="#"><img src="img/Usuario.svg" alt="Meu perfil"></a>
-    </div>
-</header>
+        <a href="#"><img src="img/Com
 .cabeçalho {
     background-color: var(--branco);
     display: flex;
