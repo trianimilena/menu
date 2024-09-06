@@ -26,5 +26,18 @@ padding:lem;
     display: block;
 
 }
+.cabeçalho {
+  border: var(--branco);  
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100;
+}
+
+ 
 
 
