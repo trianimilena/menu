@@ -35,8 +35,14 @@ padding:lem;
 .lista-menu {
     display: none;
     position: absolute;
-    top: 100;
 }
+.lista-menu_titulo,
+.lista-menu_item1 {
+    padding: lem;
+    background-color: var(--branco);
+}
+
+
 
  
 
